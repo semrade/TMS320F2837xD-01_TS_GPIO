@@ -43,11 +43,12 @@
 	</linkedResources>
 	<filteredResources>
 		<filter>
-			<id>1586387885464</id>
+			<id>1586603106445</id>
 			<name>TS_DspMng/Driverlib</name>
-			<type>9</type>
+			<type>10</type>
 			<matcher>
 				<id>org.eclipse.ui.ide.multiFilter</id>
+				<arguments>1.0-name-matches-true-false-ccs</arguments>
 			</matcher>
 		</filter>
 		<filter>

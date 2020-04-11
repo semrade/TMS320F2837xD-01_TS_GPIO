@@ -5,7 +5,7 @@
  *
  * Author                   :Tarik SEMRADE
  *
- * Description              :This example  toggles led red and blue for 500ms each.
+ * Description              :This example  toggles red and blue led for 500ms each.
  *                           500ms = 500 * 1e-3 = 500000 * 1e-6 = 1000 * 500 for us_delay macro.
  *                           External oscillator 10Mhz.
  *                           CPU frequency 200MHz.
